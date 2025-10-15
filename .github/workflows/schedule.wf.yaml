@@ -1,0 +1,10 @@
+name: Schedule Workflow
+on: 
+  schedule:
+    - cron: '0/5 * * *'  # Runs daily at midnight 
+jobs:
+  scheduled_job: 
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scheduled Triggered
+        run: echo "This job runs on a schedule! every 5 minutes"
