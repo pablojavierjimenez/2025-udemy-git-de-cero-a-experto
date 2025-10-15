@@ -1,0 +1,10 @@
+name: Pull request workflow
+on: 
+  pull_request:
+
+jobs:
+  pull_request_job: 
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull Request Triggered
+        run: echo "This is a pull request event!"
