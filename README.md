@@ -60,4 +60,4 @@ https://www.udemy.com/course/github-actions-with-an-organizational-context/?refe
 
 - [**GitLab CI Beginner Tutorial**](https://www.youtube.com/playlist?list=PLZMWkkQEwOPmGolqJPsAm_4fcBDDc2to_)
 - [**GitLab Tutorial for Beginners / Gitlab CI CD Pipeline Tutorial / Gitlab CI CD Tutorial for Beginners | GitLab CI CD for DevOps Engineer and SRE**](https://www.youtube.com/playlist?list=PLdsu0umqbb8PGnVWX3AV7zPI8VPRYtgOv)
-- [****]()
+
